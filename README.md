@@ -16,3 +16,6 @@
 技术建议
 
 爬虫：requests、scrapy、selenium
+
+文件描述：
+1、main.py程序入口
